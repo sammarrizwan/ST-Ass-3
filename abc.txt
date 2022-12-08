@@ -1,0 +1,8 @@
+meetings notes
+
+1) Learn about K6
+2) Install Git Bash
+3) Learn Git related commands
+4) Learn cmd related commands
+5) Explored this site -> https://k6.io/docs/test-types/smoke-testing/
+6) conduct tests and check results
